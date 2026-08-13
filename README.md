@@ -1,2 +1,1 @@
-# Team_CodeCircle
-INTERNAL HACKTHON
+Digital Health Record Management System 
